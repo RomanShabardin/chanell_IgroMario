@@ -452,6 +452,7 @@ img{
    .text1{
       padding: 5%;
       width: 90%;
+      
    }
    .vozrosh{
       width: 93%;
@@ -473,19 +474,22 @@ img{
       width: 97%;
 
    }
+   .textds p{
+      font-size: 4vw;
 
+   }
    .textds h3{
-      font-size: 5vw;
+      font-size: 7vw;
    }
    .zvesda{
       font-size: 9vw;
    }
    .textds h4{
 
-      font-size: 4vw;
+      font-size: 6vw;
    }
    .textds h5{
-      font-size: 3vw;
+      font-size: 5vw;
    }
    .img{
       width: 92%;
