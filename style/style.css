@@ -30,6 +30,9 @@ body{
    margin: 10px;
    font-size: 30px;
 }
+p{
+   text-indent:2vw;
+}
 .menu{
    display: inline-block;
    background: #79a9fd;
@@ -60,6 +63,10 @@ body{
    background-color: #79a9f6;
    padding: 1vw 0.1vw;
    border-radius: 1vw;
+}
+.image{
+   width: 60%;
+   margin-left: 13vw;
 }
 .spisok-dsNews{
    padding: 2vw;
