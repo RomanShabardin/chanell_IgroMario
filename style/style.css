@@ -37,7 +37,33 @@ body{
    height: 46px;
    padding-top: 20px;
 }
-
+.img-hyk{
+   width: 60%;
+   margin-left: 15vw;
+   margin-top: 3vw;
+   border-radius: 30%;
+   box-shadow: #d6c700 0 0 20px 5px;
+}
+.img-krisMeh{
+   width: 25%;
+   margin-left: 30vw;
+   margin-top: 3vw;
+   border-radius: 30%;
+   box-shadow: #d6c700 0 0 20px 5px;
+   
+}
+.DS-News h3, .DS-News h4 {
+   text-align: center;
+}
+.DS-News audio{
+   width: 100%;
+   background-color: #79a9f6;
+   padding: 1vw 0.1vw;
+   border-radius: 1vw;
+}
+.spisok-dsNews{
+   padding: 2vw;
+}
 .main__div:hover{
    color: rgb(255, 255, 255);
    background: #679bf5;
