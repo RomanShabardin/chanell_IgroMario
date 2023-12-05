@@ -172,6 +172,17 @@ p{
    color: #79a9f6;
    transition-duration: 0.3s;
 }
+iframe{
+   width: 30%;
+   height: 15vw;
+   margin-bottom: 0.5vw;
+}
+.video{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2vw;
+   padding-left: 3vw;
+}
 .strelki:active{
    font-size: 280%;
 }
